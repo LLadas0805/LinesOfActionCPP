@@ -1,0 +1,21 @@
+Board:
+x b b b b b b x 
+w x x x x x x w 
+w x x x x x x w 
+w x x x x x x w 
+w x x x x x x w 
+w x x x x x b w 
+w x x x x x x w 
+x b b b b b x x 
+
+Human:
+Rounds won: 0
+Score: 0
+
+Computer:
+Rounds won: 0
+Score: 0
+
+Next player: Human
+Color: White
+
